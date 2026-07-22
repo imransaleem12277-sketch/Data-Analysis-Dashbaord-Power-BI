@@ -5,7 +5,7 @@ This project is a **comprehensive multi-page Power BI dashboard** designed to an
 
 The dashboard transforms raw data into **actionable business insights** using interactive visualizations, KPIs, and advanced data modeling techniques.
 
----
+-<a bref="https://github.com/imransaleem12277-sketch/Data-Analysis-Dashbaord-Power-BI/blob/main/Amazon%20sales%20and%20Profit%20Dashboard.pbix">Dataset</a>
 
 ##  Dashboard Preview
 
