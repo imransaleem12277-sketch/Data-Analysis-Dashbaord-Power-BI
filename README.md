@@ -10,13 +10,10 @@ The dashboard transforms raw data into **actionable business insights** using in
 ##  Dashboard Preview
 
 ### 🔹 Sales & Profit Dashboard
-![Sales](sales_dashboard.png)
 
 ### 🔹 Transaction Insights
-![Transaction](transaction_dashboard.png)
 
 ### 🔹 Customer Analysis
-![Customer](customer_dashboard.png)
 
 ---
 
